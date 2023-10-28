@@ -1,0 +1,57 @@
+{
+  "gameplay": {
+    "screenShake": false,
+    "streamerMode": false
+  },
+  "accessibility": {
+    "colorBlindMode": false
+  },
+  "audio": {
+    "musicVolume": 0.312222153,
+    "ambienceVolume": 0.6,
+    "sfxVolume": 0.315926224
+  },
+  "video": {
+    "vsync": true
+  },
+  "language": {
+    "currentLanguage": "Russian"
+  },
+  "input": {
+    "inputMode": 2,
+    "mouseMovementEnabled": false,
+    "touchJoystickSize": 1.0
+  },
+  "multiplayer": {
+    "crossPlay": true,
+    "allowFriendInvites": true,
+    "censorChat": false,
+    "chatMode": 1,
+    "quickChatFavs": [
+      3131
+    ],
+    "lastPlayedGameMode": 2,
+    "normalHostOptions": "B1UAAAEPCAAAAAQAAIA/AACAPwAAwD8AADRCAQECAQAAAAMBDwAAAHgAAAAAAAEBAAAEBQAAAAMAAAAKHgIAAAACAAAPBQQAAAADAAA8CgADAAAAAgAAHg8=",
+    "normalSearchOptions": "B1UAAAEKCAAAABIAAIA/AACAPwAAwD8AAHBBAQECAQAAAAMBDwAAAHgAAAABAAEBAAAEBQAAAAMAAAAKCAIAAAACAAAPBQQAAAADAAA8CgADAAAAAgAAHg8=",
+    "hideNSeekHostOptions": "Bz8AAAIPAAEAAAUAAOA/mpkZP5qZGT8BAQIABQAAAAAANEMzM7M+AACAPgABAABwQvr//z8BAP////8AAEBAAACgQA==",
+    "hideNSeekSearchOptions": "Bz8AAAIPCAAAADcAAIA/AACAPwAAwD8BAQIBAQAAAAAASEMzM7M+AACAPgEBAABIQpqZmT8BAP////8AAMBAAABAQA==",
+    "gameFilterRefreshDate": "0001-01-01T00:00:00",
+    "gameFilterTags": [
+      "<#00CC00>Съемки NightTheme",
+      "<#00CC00>Съемки других ютуберов",
+      "<#00CC00>Стандартные лобби",
+      "<#00CC00>Смертельный забег (В РАЗРАБОТКЕ)",
+      "Новичок",
+      "Обыватель",
+      "Крутой",
+      "Эксперт"
+    ],
+    "hostFilterTags": [
+      "Beginner"
+    ],
+    "searchFilterTags": [
+      "Beginner"
+    ]
+  },
+  "dataVersion": 1
+}
